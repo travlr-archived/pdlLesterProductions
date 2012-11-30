@@ -1,0 +1,23 @@
+
+#preston-body
+{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#preston-body-img
+{
+   
+/*     margin-left: 5px; */
+    display: block;   
+    margin-left: auto;   
+    margin-right: auto;
+}
+
+#preston-body-text
+{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}

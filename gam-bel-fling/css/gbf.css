@@ -1,0 +1,43 @@
+#gbf-body
+{ 
+    margin: 25px;
+}
+
+.gbf-header
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+#header1
+{
+    font-size: 45px;
+}
+
+#header2
+{
+    font-size: 30px;
+/*     text-decoration: underline; */
+}
+
+#gbf-img-01
+{
+/*     centered */
+/*    display: block;   
+    margin-left: auto;   
+    margin-right: auto;*/
+    width: 550px;
+    height: 350px;
+    float: right;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+
+#gbf-img-02
+{
+    float: left;
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-bottom: 15px;
+}

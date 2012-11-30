@@ -1,0 +1,55 @@
+#calvert-body
+{
+    margin: 25px;
+    margin-top: 50px;
+}
+
+
+
+#calvert-header
+{
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#calvert-subheader
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#calvert-img-01
+{
+    float: left;
+    margin-top: -10px;
+    margin-right: 25px;
+    width: 425px;
+    height: 575px;
+}
+
+#calvert-img-02
+{
+    float: right;
+    margin-left: 15px;
+    margin-right: 35px;
+}
+
+#calvert-img-03
+{
+    float: left;
+/*     margin-top: 15px; */
+    margin-right: 25px;
+    margin-left: 35px;
+}
+
+#body-review
+{
+    font-style: italic;
+}
+
+#birthday
+{
+    text-align: center;
+}

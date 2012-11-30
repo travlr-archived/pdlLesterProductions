@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Michael Trixx - Magician" title="Michael Trixx - Magician">
+<page file="about.html" text="About" title="Michael Trixx - About"/>
+<page file="media.html" text="Media" title="Michael Trixx - Media">
+<page file="videos.html" text="" title="Michael Trixx - Videos"/>
+<page file="news.html" text="" title="Michael Trixx - News"/>
+
+</site>

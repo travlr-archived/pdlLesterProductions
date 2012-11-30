@@ -1,0 +1,14 @@
+/* ::::: http://www.michaeltrixx.com/mtrixx.css ::::: */
+
+body { margin: 20px 0pt 0pt; padding: 0pt; background-color: rgb(0, 0, 0); font-family: verdana; font-size: 12px; color: rgb(255, 255, 255); background-image: url('fire5ly8.jpg'); background-attachment: fixed; background-position: center bottom; background-repeat: repeat-x; }
+#wrapper { width: 600px; margin: auto; text-align: center; border: 1px solid rgb(102, 102, 102); background-color: rgb(0, 0, 0); padding: 0pt; }
+#navbar { width: 600px; height: 20px; margin: auto auto 5px; text-align: center; }
+#navbar a { color: rgb(255, 255, 255); font-family: verdana; font-size: 12px; text-decoration: none; padding-right: 12px; padding-left: 12px; }
+#navbar a:hover { color: rgb(255, 0, 0); font-family: verdana; font-size: 12px; text-decoration: none; padding-right: 12px; padding-left: 12px; }
+#logo { width: 600px; height: 100px; margin: 0pt 0pt 10px; padding: 0pt; }
+#content { width: 600px; height: 400px; margin: 0pt 0pt 20px; padding: 0pt; }
+#icons { width: 600px; height: 48px; margin: 0pt 0pt 20px; }
+h1 { color: rgb(102, 102, 102); font-family: verdana; font-size: 18px; margin-top: 0pt; margin-bottom: 5px; }
+#footer { width: 600px; height: 50px; text-align: center; margin: 10px auto auto; color: rgb(0, 0, 0); }
+a { color: rgb(255, 0, 0); text-decoration: underline; }
+a:hover { color: rgb(255, 255, 255); text-decoration: underline; }

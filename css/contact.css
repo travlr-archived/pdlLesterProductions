@@ -1,0 +1,18 @@
+#contact-body
+{
+    float: left;
+    font-family: cursive;
+    margin-top: 125px;
+    margin-left: 200px;
+    margin-bottom: 140px;
+    margin-right: 15px;
+}
+
+#contact-img-01
+{
+    float: left;
+    width: 480px;
+    height: 360px;
+    margin-top: 35px;
+    margin-left: 115px;
+}

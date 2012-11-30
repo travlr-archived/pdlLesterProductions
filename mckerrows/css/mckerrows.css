@@ -1,0 +1,81 @@
+#mckerrows-body
+{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Serif;
+}
+
+#top-billing
+{
+    font-size: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#mb-img-01
+{
+    float: right;
+    margin-left: 5px;
+    width: 300px;
+    height: 200px;
+}
+
+
+#mckerrows-lr
+{
+    margin-top: 25px;
+}
+
+#mckerrows-left
+{
+    float: left;
+    width: 46%;
+    margin-right: 10px;
+/*     margin-bottom: 100%; */
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+/*     padding-bottom: 100%; */
+    border: 1px solid white;
+}
+
+#mckerrows-right
+{
+    float: left;
+    width: 46%;
+    border: 1px solid white;
+    margin-left: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+/*     padding-bottom: 100%; */
+}
+
+#rt-img-01
+{
+    width: 200px;
+    height: 42px;
+    
+}
+
+#rt-img-02
+{
+    float: left;
+    margin-right: 10px;
+}
+
+#rt-img-03
+{
+    float: right;
+    margin-left: 10px;
+}
+
+#rt-img-04
+{
+    float: left;
+    margin-right: 10px;
+}
+

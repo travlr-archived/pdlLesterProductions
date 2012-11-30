@@ -1,0 +1,100 @@
+
+#sberg-body
+{
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: "Comic Sans MS";
+}
+
+.sberg-text-yellow
+{
+    color: yellow;
+}
+
+#img-01
+{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+}
+
+#img-02
+{
+    width: 225px;
+    height: 285px;
+    float: right;
+    margin-left: 15px;
+}
+
+#img-03
+{
+    width: 225px;
+    height: 285px;
+    float: left;
+    margin-right: 15px;
+}
+
+#img-04
+{
+    width: 225px;
+    height: 285px;
+    float: right;
+    margin-left: 15px;
+}
+
+#img-05
+{
+    width: 700px;
+    float: left;
+    margin-right: 15px;
+}
+
+#img-06
+{
+    width: 225px;
+    height: 225px;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+#montage img
+{
+    width: 225px;
+    height: 225px;
+/*    float: left;
+    margin-right: 10px;*/
+}
+
+#montage
+{
+/*     margin: -120px 0 0 120px; */
+}
+
+#montage div 
+{
+    width: 25%;
+    float: left;
+}
+#montage div img 
+{
+    float: right;
+}
+
+.clear
+{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+

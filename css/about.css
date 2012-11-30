@@ -1,0 +1,21 @@
+#about-body
+{
+    margin: 50px;
+}
+
+#about-img
+{
+    float: right;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+#achievements-body
+{
+    margin-left: 100px;
+}
+
+#awards-body
+{
+    margin-left: 100px;
+}

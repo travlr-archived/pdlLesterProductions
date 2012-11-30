@@ -1,0 +1,34 @@
+
+#sb-body
+{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#sb-body-img1
+{
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+#sb-body-img2
+{
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+#sb-body-img3
+{
+    float: left;
+        margin-right: 15px;
+    margin-bottom: 15px;
+}
+#sb-body-img4
+{
+    float: right;
+        margin-left: 15px;
+    margin-bottom: 15px;
+}

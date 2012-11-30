@@ -1,0 +1,44 @@
+
+#sands-floatheader
+{
+    float: right;
+}
+
+#sands-header
+{
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#sands-subheader
+{
+    font-size: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#sands-body
+{
+    margin-top: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#sands-body-img
+{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 15px;
+/*     float: right; */
+}
+
+#sands-body-img2
+{
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 15px;
+}
+
+

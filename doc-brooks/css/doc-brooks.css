@@ -1,0 +1,68 @@
+#doc-brooks-body
+{
+    margin-top: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 75px;
+    font-family: "Comic Sans MS";
+}
+
+#brooks-header
+{
+    font-size: 35px;
+    margin-top: 0;
+}
+
+#brooks-text
+{
+    padding: 25px;
+    padding-left: 45px;
+}
+
+#img-01
+{
+/*    width: 150px;
+    height: 150px;*/
+ /*   float: left;*/
+/*    margin-right: 75px;
+    margin-bottom: 25px;*/
+    margin: 25px;
+    margin-left: 0;
+}
+
+#img-02
+{
+    width: 352px;
+    height: 528px;
+}
+
+
+
+#brooks-left
+{
+    float: left;
+    width: 60%;
+}
+
+#brooks-right
+{
+    float: left;
+    margin-left: 8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

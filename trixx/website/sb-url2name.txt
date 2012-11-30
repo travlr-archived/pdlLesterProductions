@@ -1,0 +1,6 @@
+http://www.michaeltrixx.com/index.html	index
+http://www.michaeltrixx.com/about.html	about
+http://www.michaeltrixx.com/media.html	media
+http://www.michaeltrixx.com/contact.html	contact
+http://www.michaeltrixx.com/videos.html	videos
+http://www.michaeltrixx.com/news.html	news

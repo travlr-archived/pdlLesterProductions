@@ -1,0 +1,30 @@
+#ortiz-body
+{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+#ortiz-header
+{
+    font-size: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#ortiz-subheader
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#ortiz-body-img-rside
+{
+    margin-right: 25px;
+    margin-bottom: 15px;
+    float: left;
+}
+

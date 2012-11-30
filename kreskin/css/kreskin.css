@@ -1,0 +1,14 @@
+
+
+#kreskin-body
+{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#banner
+{
+   display:block; /*images must be set to block in order use auto margins*/
+   margin:0 auto; /*centers images in most browsers*/
+   text-align:center; /*centers images in older browsers*/
+}

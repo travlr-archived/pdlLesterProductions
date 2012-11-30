@@ -1,0 +1,25 @@
+#guerra-body-header
+{
+}
+
+#guerra-body
+{
+    margin-top: 75px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+#guerra-img-01
+{
+    float: right;
+    width: 200px;
+    height: 300px;
+    margin-left: 25px;
+/*     margin-right: 25px; */
+    margin-bottom: 25px;
+}
+
+#guerra-body-text
+{
+    margin-left: 25px;
+}

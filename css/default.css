@@ -1,0 +1,339 @@
+
+/****************************
+ * dark midnight blue #003366
+ * upper blue #0C17AC
+ ****************************/
+
+
+body
+{
+    background-image: url(../img/page-bg.png);
+    background-repeat: repeat;
+    background-color: #003366;
+    color: #f3f1e9;
+/*    margin: 0;
+    padding: 0;*/
+    font-family: sans-serif;
+/*     margin-right: 10px; */
+}
+
+
+
+.links
+{
+    color: #5FC2FF;
+}
+
+#links-yellow
+{
+    color: yellow;
+    text-decoration: none
+}
+
+/* header */
+#header, #footer, #header-a
+{
+    color:#f3f1e9;
+/*     padding: 10px; */
+    padding-left: 10px;
+    padding-top: 0;
+    clear: left;
+    text-decoration: none;
+}
+
+/* EXAMPLE FROM A WEBSITE FOR SHADOWS: greywyvern.com/include/page.css - see the site map page */
+/*body > h1 {
+  height:125px;
+  background:#bbbbbb url(/img/site/h1.jpg) no-repeat scroll center top;
+  border-bottom:1px solid #444444;
+  position:relative;
+  z-index:2;
+  margin:0px;
+  padding:0px;
+  text-align:right;
+  box-shadow:0px -20px 40px 20px #000000;
+
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  clip:rect(auto, auto, 300px, auto);
+}*/
+
+#header
+{
+    cursor: pointer;
+}
+
+#header h1
+{
+    margin: 0;
+    padding: 0;
+/*     font-family: sans-serif; */
+    font-family: cursive;
+    font-size: 275%;
+}
+
+#header h4, #footer h4
+{
+    margin: 0.5em;
+    margin-left: 50px;
+    margin-bottom: 0;
+    padding: 0px;
+    font-family: cursive
+}
+
+#navbar
+{
+    height: 18px;
+    border: 0px solid red;
+    float: right;
+    margin-bottom: 6px;
+    margin-left: 5px;
+}
+
+#navlist
+{
+    border: 0px solid red;
+    vertical-align: bottom;    
+    margin-bottom: 5px;
+}
+
+#navlist ul
+{
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+    margin-right: 20px;
+}
+
+#navlist li
+{
+    display: inline;
+    list-style-type: none;
+    font-weight: bold;
+    vertical-align: bottom;
+}
+
+#navlist a
+{
+    padding: 5px 8px 3px 8px;
+    background-color: #3990C8;
+    height: 24px;
+}
+
+#navlist a:link, #navlist a:visited
+{
+    color: #F3F1E9;
+    text-decoration: none;
+    background-image: url(../img/tabs_over.gif);
+
+}
+
+#navlist a:hover
+{
+    background-color: #F2F0E8;
+    background-image: url(../img/tabs_over.gif);
+    color: #F3F1E9;
+    text-decoration: underline;
+}
+
+#active a:link, #active a:visited, #active a:hover
+{
+    background-color: #F2F0E8;
+    background-image: url(../img/tabs.gif);
+    color: #3990C8;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#intro p
+{
+    margin-top: 40px;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-bottom: 25px;
+    padding: 2px;
+    font-family: cursive;
+}
+
+#intro-welcome
+{
+    font-size: 1.75em;
+    font-weight: bold;
+}
+
+#intro-assist
+{
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+#component-wrapper
+{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.roundedcornr_box_867627 {
+    background: url(../img/rcrn/roundedcornr_867627_tl.png) no-repeat top left;
+    width: 475px;
+    margin: 10px;
+/*     float: left; */
+    cursor: pointer;
+    display: inline-block;
+}
+.roundedcornr_top_867627 {
+    background-image: url(../img/rcrn/roundedcornr_867627_tr.png);
+    background-repeat: no-repeat; 
+    background-position: top right;
+}
+.roundedcornr_bottom_867627 {
+    background-image: url(../img/rcrn/roundedcornr_867627_bl.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.roundedcornr_bottom_867627 div {
+    background-image: url(../img/rcrn/roundedcornr_867627_br.png);
+    background-repeat: no-repeat; 
+    background-position: bottom right;
+}
+.roundedcornr_content_867627 {
+    background-image: url(../img/rcrn/roundedcornr_867627_r.png);
+    background-repeat: repeat-y;
+    background-position: top right;
+}
+
+.roundedcornr_top_867627 div,.roundedcornr_top_867627,
+.roundedcornr_bottom_867627 div, .roundedcornr_bottom_867627 {
+    width: 100%;
+    height: 15px;
+    font-size: 1px;
+}
+.roundedcornr_content_867627, .roundedcornr_bottom_867627 {
+    margin-top: -19px;
+}
+.roundedcornr_content_867627 
+{ 
+    padding: 0 15px; 
+}
+
+.component-images
+{
+    width: 100px;
+    height: 100px;
+    float: left;
+    display: block;
+    margin-right: 12px;
+/*     margin-top: 12px; */
+    margin-bottom: 17px;
+}
+
+.component-text
+{
+/*     padding: 5px; */
+    font-size: 90%
+}
+
+.clear-prop
+{
+    clear: both;
+    height: 1px;
+    overflow: hidden;
+}
+
+.first-words
+{
+    font-weight: bold;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+#calvert-combo
+{
+    float: right;
+}
+
+#calvert-combo img
+{
+    margin: 10px;
+    padding: 30px;
+}
+
+#calvert-bio
+{
+    margin-top: 15px;
+    margin: 2px;
+    padding: 10px;
+}
+
+#calvert-bio-image
+{
+    float: right;
+    margin: 10px;
+}
+
+#calvert-img-02
+{
+    float: left;
+}
+
+
+#mail-form
+{
+    width: 500px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mail-form-left, #mail-form-right
+{
+   float: left;
+   width: 46.5%;
+   margin: 8% 0 5% 1%;
+   padding: 1%;
+
+}
+
+#mail-form-right
+{
+   float: right;
+   margin: 2% 1% 1% 0;
+}
+
+
+.clear {
+   height: 0;
+   font-size: 1px;
+   margin: 0;
+   padding: 0;
+   line-height: 0;
+   clear: both;
+}
+
+#clemente-body
+{
+/*     width: 500px; */
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
